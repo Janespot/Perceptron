@@ -23,8 +23,8 @@ This is a JavaScript code to train an AI Perceptron
     
     ```
     for (let j = 0; j <= 10; j++) {
-    for (let i = 0; i < numPoints; i++) {
-        ptron.train([xPoints[i], yPoints[i]], desired[i]);
-    }
+      for (let i = 0; i < numPoints; i++) {
+          ptron.train([xPoints[i], yPoints[i]], desired[i]);
+      }
     }
     ```

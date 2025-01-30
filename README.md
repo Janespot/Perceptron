@@ -19,7 +19,7 @@ This is a JavaScript code to train an AI Perceptron
     const learningRate = 0.00001;
     ```
   - Increase the number of training iterations i.e. the loop with `j` variable in our case
-   > index.js
+    > index.js
     
     ```
     for (let j = 0; j <= 10; j++) {

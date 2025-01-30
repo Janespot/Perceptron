@@ -1,7 +1,7 @@
-### Training a Perceptron
+# Training a Perceptron
 This is a JavaScript code to train an AI Perceptron
 
-# Key point
+### Key point
 - A **perceptron** is the smallest unit of a Neural Network
 - To tune a perceptron:
   - Adjust the learning rate
